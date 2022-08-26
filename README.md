@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnlataaa&show_icons=true&locale=en" alt="swarnlataaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnlataaa&" alt="swarnlataaa" /></p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/swarnlata"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="swarnlata" /></a></p><br><br>
