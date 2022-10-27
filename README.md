@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/excusedenied" target="blank"><img src="https://img.shields.io/twitter/follow/excusedenied?logo=twitter&style=for-the-badge" alt="excusedenied" /></a> </p>
+<p align="left"> <a href="https://twitter.com/classiceveryman" target="blank"><img src="https://img.shields.io/twitter/follow/classiceveryman?logo=twitter&style=for-the-badge" alt="classiceveryman" /></a> </p>
 
 - 💬 Ask me about **React, javascript, C++**
 
