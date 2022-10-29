@@ -30,4 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/swarnlata"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="swarnlata" /></a></p><br><br>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/swarnlataaa/swarnlataaa/blob/output/github-contribution-grid-snake.gif)
+
+
+
