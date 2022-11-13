@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, javascript, C++**
 
-- 📫 How to reach me **swarnlatamazing@gmail.com**
+- 📫 Shoot your ideas/collaboration approaches at:  **swarnlatamazing@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
