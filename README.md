@@ -9,7 +9,7 @@
 
 <!---- 💬 Ask me about **React, javascript, C++** -->
 
-- 📫 Shoot your ideas/collaboration approaches at:  **swarnlatamazing@gmail.com**
+- 📫 Shoot your ideas/collaboration approaches at:  **swarnlataaa@gmail.com**
 
 <h3 align="left"> Social profiles:</h3>
 <p align="left">
